@@ -23,9 +23,5 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
-- (IBAction)pressButton:(id)sender {
-    NSLog(@"Hello World");
-    NSLog(@"Selamat PAgi Dunia");
-}
 
 @end
